@@ -1,0 +1,209 @@
+06/19/2024 06:30:21 PM - automation_logger - INFO - **************** Test Login 001 **********
+06/19/2024 06:30:21 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+06/19/2024 06:30:23 PM - automation_logger - INFO - **************** Homepage Title TC is Passed **********
+06/19/2024 06:33:11 PM - automation_logger - INFO - **************** Test Login 001 **********
+06/19/2024 06:33:11 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+06/19/2024 06:33:12 PM - automation_logger - INFO - **************** Homepage Title TC is Passed **********
+06/19/2024 06:33:13 PM - automation_logger - INFO - ****************Verifying the Login Functionality**********
+06/19/2024 06:33:19 PM - automation_logger - INFO - ****************Login TC passed**********
+06/19/2024 06:33:51 PM - automation_logger - INFO - **************** Test Login 001 **********
+06/19/2024 06:33:51 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+06/19/2024 06:33:52 PM - automation_logger - ERROR - **************** Homepage Title TC is Failed **********
+06/19/2024 06:33:53 PM - automation_logger - INFO - ****************Verifying the Login Functionality**********
+06/19/2024 06:35:14 PM - automation_logger - INFO - **************** Test Login 001 **********
+06/19/2024 06:35:14 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+06/19/2024 06:35:15 PM - automation_logger - ERROR - **************** Homepage Title TC is Failed **********
+06/19/2024 06:35:16 PM - automation_logger - INFO - ****************Verifying the Login Functionality**********
+06/19/2
+06/19/2024 06:39:36 PM - automation_logger - INFO - **************** Test Login 001 **********
+06/19/2024 06:39:36 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+06/19/2024 06:39:38 PM - automation_logger - INFO - **************** Homepage Title TC is Passed **********
+06/19/2024 06:39:38 PM - automation_logger - INFO - ****************Verifying the Login Functionality**********
+06/19/2024 06:39:45 PM - automation_logger - INFO - ****************Login TC passed**********
+06/20/2024 04:50:12 PM - automation_logger - INFO - **************** Test Login 001 **********
+06/20/2024 04:50:12 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+06/20/2024 04:50:15 PM - automation_logger - INFO - **************** Homepage Title TC is Passed **********
+06/20/2024 04:50:15 PM - automation_logger - INFO - ****************Verifying the Login Functionality**********
+06/20/2024 04:50:25 PM - automation_logger - INFO - ****************Login TC passed**********
+06/20/2024 05:39:09 PM - automation_logger - INFO - **************** Test Login 001 **********
+06/20/2024 05:39:09 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+06/20/2024 05:39:11 PM - automation_logger - INFO - **************** Homepage Title TC is Passed **********
+06/20/2024 05:39:12 PM - automation_logger - INFO - ****************Verifying the Login Functionality**********
+06/20/2024 05:39:19 PM - automation_logger - INFO - ****************Login TC passed**********
+06/20/2024 05:54:54 PM - automation_logger - INFO - **************** Test Login 001 **********
+06/20/2024 05:54:54 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+06/20/2024 05:55:00 PM - automation_logger - INFO - **************** Homepage Title TC is Passed **********
+06/20/2024 05:55:01 PM - automation_logger - INFO - ****************Verifying the Login Functionality**********
+06/20/2024 05:55:40 PM - automation_logger - INFO - ****************Login TC passed**********
+06/20/2024 05:56:01 PM - automation_logger - INFO - ****************Verifying the Login Functionality**********
+06/20/2024 05:56:03 PM - automation_logger - INFO - **************** Test Login 001 **********
+06/20/2024 05:56:03 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+06/20/2024 05:56:14 PM - automation_logger - INFO - **************** Homepage Title TC is Passed **********
+06/20/2024 05:57:05 PM - automation_logger - INFO - **************** Test Login 001 **********
+06/20/2024 05:57:05 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+06/20/2024 05:57:36 PM - automation_logger - INFO - ****************Verifying the Login Functionality**********
+06/20/2024 06:02:57 PM - automation_logger - INFO - ****************Verifying the Login Functionality**********
+06/20/2024 06:02:57 PM - automation_logger - INFO - **************** Test Login 001 **********
+06/20/2024 06:02:57 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+06/20/2024 06:03:00 PM - automation_logger - INFO - **************** Homepage Title TC is Passed **********
+06/20/2024 06:03:04 PM - automation_logger - INFO - ****************Login TC passed**********
+06/21/2024 05:51:29 PM - automation_logger - INFO - ****************Test 002 DDT Login Functionality**********
+06/21/2024 05:51:29 PM - automation_logger - INFO - ****************Verifying the DDT Login Functionality**********
+06/21/2024 05:59:40 PM - automation_logger - INFO - ****************The DDT Login TC is Failed**********
+06/21/2024 06:00:40 PM - automation_logger - INFO - ****************The DDT Login TC is passed**********
+06/21/2024 06:00:45 PM - automation_logger - INFO - ****************The DDT Login TC is Failed**********
+06/21/2024 06:01:44 PM - automation_logger - INFO - ****************The DDT Login TC is passed**********
+06/21/2024 06:01:54 PM - automation_logger - INFO - ****************DDT Login TC passed**********
+06/21/2024 06:34:40 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:35:39 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:36:06 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:36:37 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:36:44 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:37:33 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:39:32 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:40:22 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:40:53 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:44:42 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:45:14 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:46:17 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:47:41 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:47:59 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:50:08 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:50:38 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:51:19 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:52:49 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:53:57 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:54:32 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:55:05 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:56:19 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:57:02 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:57:25 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+06/21/2024 06:58:20 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 05:54:32 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 05:55:20 PM - automation_logger - INFO - ****************The DDT Login TC is passed**********
+07/04/2024 05:55:34 PM - automation_logger - INFO - ****************DDT Login TC passed**********
+07/04/2024 05:55:37 PM - automation_logger - INFO - **************** Test Login 001 **********
+07/04/2024 05:55:37 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+07/04/2024 05:55:38 PM - automation_logger - INFO - **************** Homepage Title TC is Passed **********
+07/04/2024 05:55:39 PM - automation_logger - INFO - ****************Verifying the Login Functionality**********
+07/04/2024 05:56:41 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 05:57:07 PM - automation_logger - INFO - ****************The DDT Login TC is passed**********
+07/04/2024 05:57:21 PM - automation_logger - INFO - ****************DDT Login TC passed**********
+07/04/2024 05:57:24 PM - automation_logger - INFO - **************** Test Login 001 **********
+07/04/2024 05:57:24 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+07/04/2024 05:57:25 PM - automation_logger - INFO - **************** Homepage Title TC is Passed **********
+07/04/2024 05:57:26 PM - automation_logger - INFO - ****************Verifying the Login Functionality**********
+07/04/2024 05:57:33 PM - automation_logger - INFO - ****************Login TC passed**********
+07/04/2024 05:58:13 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 05:58:44 PM - automation_logger - INFO - ****************The DDT Login TC is passed**********
+07/04/2024 05:58:58 PM - automation_logger - INFO - ****************DDT Login TC passed**********
+07/04/2024 05:59:00 PM - automation_logger - INFO - **************** Test Login 001 **********
+07/04/2024 05:59:00 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+07/04/2024 05:59:01 PM - automation_logger - INFO - **************** Homepage Title TC is Passed **********
+07/04/2024 05:59:02 PM - automation_logger - INFO - ****************Verifying the Login Functionality**********
+07/04/2024 05:59:07 PM - automation_logger - INFO - ****************Login TC passed**********
+07/04/2024 06:03:16 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:03:37 PM - automation_logger - INFO - ****************The DDT Login TC is passed**********
+07/04/2024 06:03:52 PM - automation_logger - INFO - ****************DDT Login TC passed**********
+07/04/2024 06:03:54 PM - automation_logger - INFO - **************** Test Login 001 **********
+07/04/2024 06:03:54 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+07/04/2024 06:03:55 PM - automation_logger - INFO - **************** Homepage Title TC is Passed **********
+07/04/2024 06:03:56 PM - automation_logger - INFO - ****************Verifying the Login Functionality**********
+07/04/2024 06:04:03 PM - automation_logger - INFO - ****************Login TC passed**********
+07/04/2024 06:05:34 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:05:50 PM - automation_logger - INFO - **************** Test Login 001 **********
+07/04/2024 06:05:50 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+07/04/2024 06:05:52 PM - automation_logger - INFO - **************** Homepage Title TC is Passed **********
+07/04/2024 06:05:52 PM - automation_logger - INFO - ****************Verifying the Login Functionality**********
+07/04/2024 06:05:59 PM - automation_logger - INFO - ****************Login TC passed**********
+07/04/2024 06:07:17 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:07:37 PM - automation_logger - INFO - ****************The DDT Login TC is passed**********
+07/04/2024 06:07:46 PM - automation_logger - INFO - **************** Test Login 001 **********
+07/04/2024 06:07:46 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+07/04/2024 06:07:47 PM - automation_logger - INFO - ****************Verifying the Login Functionality**********
+07/04/2024 06:07:59 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:08:19 PM - automation_logger - INFO - ****************The DDT Login TC is passed**********
+07/04/2024 06:08:32 PM - automation_logger - INFO - ****************DDT Login TC passed**********
+07/04/2024 06:08:34 PM - automation_logger - INFO - **************** Test Login 001 **********
+07/04/2024 06:08:34 PM - automation_logger - INFO - **************** Verifying the Homepage Title **********
+07/04/2024 06:08:35 PM - automation_logger - INFO - **************** Homepage Title TC is Passed **********
+07/04/2024 06:09:08 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:11:14 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:12:35 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:13:10 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:16:02 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:18:09 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:18:47 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:20:39 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:21:20 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:22:40 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:23:17 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:32:09 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:40:29 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:48:09 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:48:35 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:54:35 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:55:01 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:57:48 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/04/2024 06:58:17 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 11:12:05 AM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 11:25:58 AM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 11:29:04 AM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 11:33:10 AM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 11:34:34 AM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 11:35:31 AM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 11:37:02 AM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 11:40:22 AM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 11:42:00 AM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 11:43:40 AM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 11:44:27 AM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 11:46:10 AM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 11:46:45 AM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 12:25:02 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 02:14:00 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 02:14:38 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 02:19:44 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 02:19:50 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 02:20:26 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 02:25:22 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 02:26:38 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 02:27:05 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 02:27:39 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 02:28:27 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 02:31:46 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 02:42:08 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 02:45:33 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 02:51:56 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:26:00 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:26:33 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:27:04 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:28:04 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:28:13 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:28:39 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:29:58 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:37:07 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:38:22 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:41:29 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:45:53 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:46:00 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:48:38 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:50:46 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:53:17 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:54:16 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:55:33 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:56:13 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:56:27 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 03:57:50 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 04:00:38 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 04:05:34 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 04:06:11 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 04:06:52 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 04:07:19 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 04:08:05 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 04:08:43 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 04:09:23 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 04:10:29 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 04:10:59 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 04:14:43 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 04:15:44 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********
+07/05/2024 06:16:31 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********

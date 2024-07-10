@@ -1,0 +1,27 @@
+import pytest
+from playwright.sync_api import sync_playwright
+#generating the HTML report-"pytest --html=mytestreport.html"
+
+@pytest.fixture(scope="module")
+def browser():
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=False)
+        yield browser
+        browser.close()
+
+@pytest.fixture(scope="function")
+def page(browser):
+    page = browser.new_page()
+    yield page
+    page.close()
+
+
+def test_login1(page):
+    page.goto("https://demo.nopcommerce.com/login?returnUrl=%2F")
+    login= page.wait_for_selector("//input[@id='Email']")
+    login.type('deepakmittal@amwebtech.com')
+    password = page.wait_for_selector("//input[@id='Password']")
+    password.type('admin@1234')
+    page.wait_for_selector("//button[normalize-space()='Log in']").click()
+    page.wait_for_timeout(3000)
+    page.screenshot(path="./Screenshots/1.png")
