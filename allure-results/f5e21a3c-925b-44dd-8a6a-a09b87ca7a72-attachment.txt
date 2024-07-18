@@ -1,0 +1,1 @@
+07/18/2024 05:45:35 PM - automation_logger - INFO - ****************Verifying the add mew customer Functionality**********

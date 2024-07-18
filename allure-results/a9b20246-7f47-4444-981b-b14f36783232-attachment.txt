@@ -1,0 +1,2 @@
+[32mINFO    [0m automation_logger:test_ddt.py:59 ****************The DDT Login TC is passed**********
+[32mINFO    [0m automation_logger:test_ddt.py:68 ****************DDT Login TC passed**********

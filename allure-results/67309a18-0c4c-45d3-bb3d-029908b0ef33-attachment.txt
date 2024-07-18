@@ -1,0 +1,2 @@
+07/18/2024 05:46:23 PM - automation_logger - INFO - ****************The DDT Login TC is passed**********
+07/18/2024 05:46:36 PM - automation_logger - INFO - ****************DDT Login TC passed**********

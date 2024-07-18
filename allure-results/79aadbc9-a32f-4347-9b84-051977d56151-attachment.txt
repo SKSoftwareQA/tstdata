@@ -1,0 +1,1 @@
+[32mINFO    [0m automation_logger:test_add_new_customer.py:35 ****************Verifying the add mew customer Functionality**********
